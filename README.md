@@ -6,20 +6,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Obunga (Indie Horror Game)](https://bonniedev.itch.io/obunga)**
+- 🔭 I’m currently working on **(nothing in particular right now)**
 
-- 🌱 I’m currently learning **C# Scripting and the Unity game engine.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at **[My Website](https://bonnie39.github.io)**
 
-## 🚀 Languages and Tools:
-
-<p align="center"> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://bonnie39.github.io/img/github-profile/tools-and-languages/csharp-icon.png"/> </a>
-    <a href="https://unity.com/" target="_blank"> <img src="https://bonnie39.github.io/img/github-profile/tools-and-languages/unity-icon.png"/> </a>
-</p>
 
 <br/>
 
