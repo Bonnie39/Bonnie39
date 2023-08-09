@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://bonnie39.github.io/img/github-profile/main/welcome_mesh_dark.png" height="92px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://bonnie39.github.io/img/github-profile/main/welcome_mesh_dark.png" height="32px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm BonnieDev</h1>
 <h3 align="center">I'm a student, programmer, and game developer.</h3>
@@ -6,10 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **(nothing in particular right now)**
-
-- 🌱 I’m currently learning **SwiftUI**
-
+- 🌱 I’m an 18 year old software developer from Guam.
+- 🔭 I’m currently working on **[a Minecraft mod[(https://github.com/Bonnie39/TheSidewaysMod)**
 - 👨‍💻 All of my projects are available at **[My Website](https://bonnie39.github.io)**
 
 
