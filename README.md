@@ -10,17 +10,7 @@
 - 🔭 I’m currently working on **[a Minecraft mod[(https://github.com/Bonnie39/TheSidewaysMod)**
 - 👨‍💻 All of my projects are available at **[My Website](https://bonnie39.github.io)**
 
-
 <br/>
-
-## Connect With Me:
-<p align="left">
-
-<a href = "https://twitter.com/dev_bonnie"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dev.bonnie"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCsPsjn1webUrNalV7LO32WA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Bonnie39/github-profile-views-counter">
