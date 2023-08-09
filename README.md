@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://bonnie39.github.io/img/github-profile/main/welcome_mesh_dark.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://bonnie39.github.io/img/github-profile/main/welcome_mesh_dark.png" height="92px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm BonnieDev</h1>
 <h3 align="center">I'm a student, programmer, and game developer.</h3>
@@ -14,19 +14,6 @@
 
 
 <br/>
-
-<p align="center">
-    <a href="https://github.com/Bonnie39/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bonnie39's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bonnie39&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Bonnie39/github-readme-stats"><img alt="Bonnie39's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bonnie39&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Bonnie39/github-readme-stats"><img alt="Bonnie39's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonnie39&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 
 ## Connect With Me:
 <p align="left">
