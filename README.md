@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://bonnie39.github.io/img/github-profile/main/welcome_mesh_dark.png" height="32px"/></a>
+<a href="#"><img width="auto" height="auto" src="https://bonnie39.github.io/img/github-profile/main/welcome_mesh_dark.png" height="24px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm BonnieDev</h1>
 <h3 align="center">I'm a student, programmer, and game developer.</h3>
