@@ -1,62 +1,39 @@
-<a href="#"><img width="100%" height="auto" src="https://bonnie39.github.io/img/github-profile/main/welcome_mesh_dark.png" height="175px"/></a>
+![Banner](https://pbs.twimg.com/profile_banners/1297470880335802368/1681991496)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm BonnieDev</h1>
-<h3 align="center">I'm a student, programmer, and game developer.</h3>
+<img alt="Hand Waving" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' align="left"/><h2>Hey! I'm Bonnie.</h2>
+
+<!-- ## 👋 &nbsp;Hey! I'm Bonnie. -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+🌴 &nbsp;I'm an 18 year old software developer from Guam.\
+💻 &nbsp;I'm currently working on a Minecraft mod called [The Sideways](https://github.com/Bonnie39/TheSidewaysMod)
 
 
-## 🙋‍♂️ About Me
+### 🛠 &nbsp;Stuff I use
 
-- 🔭 I’m currently working on **[Obunga (Indie Horror Game)](https://bonniedev.itch.io/obunga)**
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=00599C)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=flat&logo=intellijidea)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-- 🌱 I’m currently learning **C# Scripting and the Unity game engine.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Website](https://bonnie39.github.io)**
-
-## 🚀 Languages and Tools:
-
-<p align="center"> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://bonnie39.github.io/img/github-profile/tools-and-languages/csharp-icon.png"/> </a>
-    <a href="https://unity.com/" target="_blank"> <img src="https://bonnie39.github.io/img/github-profile/tools-and-languages/unity-icon.png"/> </a>
-</p>
-
-<br/>
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <a href="https://github.com/Bonnie39/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bonnie39's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bonnie39&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Bonnie39/github-readme-stats"><img alt="Bonnie39's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bonnie39&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Bonnie39/github-readme-stats"><img alt="Bonnie39's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonnie39&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Bonnie39/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bonnie39&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect With Me:
-<p align="left">
-
-<a href = "https://twitter.com/dev_bonnie"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dev.bonnie"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCsPsjn1webUrNalV7LO32WA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Bonnie39/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Bonnie39">
+<a href="https://github.com/Bonnie39">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bonnie39&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bonnie39&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/Bonnie39?tab=followers"><img src="https://img.shields.io/github/followers/Bonnie39?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://bonnie39.github.io/"><img src="https://img.shields.io/badge/-bonnie39.github.io-55288f?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.youtube.com/@BonnieDev"><img src="https://img.shields.io/badge/-BonnieDev-f20202?style=flat&logo=YouTube&logoColor=white"/></a>
+<a href="https://instagram.com/dev.bonnie"><img src="https://img.shields.io/badge/-@dev.bonnie_-C13584?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/dev_bonnie"><img src="https://img.shields.io/badge/-@dev_bonnie-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
