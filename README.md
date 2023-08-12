@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m an 18 year old software developer from Guam.
-- 🔭 I’m currently working on **[a Minecraft mod[(https://github.com/Bonnie39/TheSidewaysMod)**
+- 🔭 I’m currently working on **[a Minecraft mod](https://github.com/Bonnie39/TheSidewaysMod)**
 - 👨‍💻 All of my projects are available at **[My Website](https://bonnie39.github.io)**
 
 <br/>
