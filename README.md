@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/1297470880335802368/1681991496)
+![Banner](https://pbs.twimg.com/profile_banners/1297470880335802368/1695999905/1500x500)
 
 <img alt="Hand Waving" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' align="left"/><h2>Hey! I'm Bonnie.</h2>
 
