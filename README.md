@@ -10,16 +10,6 @@
 💻 &nbsp;I'm currently working on a Minecraft mod called [The Sideways](https://github.com/Bonnie39/TheSidewaysMod)
 
 
-### 🛠 &nbsp;Stuff I use
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=00599C)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=flat&logo=intellijidea)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
