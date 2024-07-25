@@ -8,14 +8,14 @@
 💻 &nbsp;I'm currently working on a Minecraft mod called [The Sideways](https://github.com/Bonnie39/TheSidewaysMod) (paused development for now.)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Bonnie39">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bonnie39&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bonnie39&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
