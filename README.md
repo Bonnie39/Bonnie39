@@ -23,5 +23,5 @@
 <a href="https://bonnie39.github.io/"><img src="https://img.shields.io/badge/-bonnie39.github.io-55288f?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.youtube.com/@BonnieDev"><img src="https://img.shields.io/badge/-BonnieDev-f20202?style=flat&logo=YouTube&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/dev.bonnie"><img src="https://img.shields.io/badge/-@dev.bonnie_-C13584?style=flat&logo=Instagram&logoColor=white"/></a> -->
-<a href="https://x.com/dev_bonnie"><img src="https://img.shields.io/badge/-@dev_bonnie-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/dev_bonnie"><img src="https://img.shields.io/badge/-@dev_bonnie-000000?style=flat&logo=X&logoColor=white"/></a>
 </p>
