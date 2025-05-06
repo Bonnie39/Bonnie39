@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/1297470880335802368/1721798166/1500x500)
+<!-- ![Banner](https://pbs.twimg.com/profile_banners/1297470880335802368/1721798166/1500x500) -->
 
 <!-- ## 👋 &nbsp;Hey! I'm Bonnie. -->
 
