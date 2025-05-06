@@ -2,10 +2,11 @@
 
 <!-- ## 👋 &nbsp;Hey! I'm Bonnie. -->
 
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 🌴 &nbsp;I'm a 19 year old software developer from Guam.\
-💻 &nbsp;I'm currently working on a Minecraft mod called [The Sideways](https://github.com/Bonnie39/TheSidewaysMod) (paused development for now.)
+💻 &nbsp;I'm currently working on a secret Source Engine-related project. 😉
 
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
@@ -17,7 +18,8 @@
 </a>
 </p> -->
 
-### 🤝🏻 &nbsp;Connect with Me
+
+<!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
 <p align="center">
 <a href="https://bonnie39.github.io/"><img src="https://img.shields.io/badge/-bonnie39.github.io-55288f?style=flat&logo=Google-Chrome&logoColor=white"/></a>
