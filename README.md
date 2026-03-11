@@ -23,6 +23,7 @@
 
 <p align="center">
 <a href="https://bonnie39.com/"><img src="https://img.shields.io/badge/-bonnie39.com-55288f?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Bonnie39"><img src="https://img.shields.io/badge/-Bonnie39-f20202?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="https://www.youtube.com/@JackrabbitInteractive"><img src="https://img.shields.io/badge/-JackrabbitInteractive-f20202?style=flat&logo=YouTube&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/dev.bonnie"><img src="https://img.shields.io/badge/-@dev.bonnie_-C13584?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://x.com/dev_bonnie"><img src="https://img.shields.io/badge/-@dev_bonnie-000000?style=flat&logo=X&logoColor=white"/></a>
