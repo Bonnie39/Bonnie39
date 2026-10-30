@@ -5,8 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌴 &nbsp;I'm a 20 year old software developer from Guam.\
-💻 &nbsp;I'm currently working on a secret Source Engine-related project. 😉
+🌴 &nbsp;I'm a 21 year old software developer from Guam.\
+💻 &nbsp;I'm currently working on a communications platform. 😉
 
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics
